@@ -1,7 +1,3 @@
-"""
-python trainTemplateSft.py --output_dir ./outputData/WQ --train_corrector_path ./outputData/WQ/trainCorrector.json --model_path /data/rym/premodel/Meta-Llama-3-8B-Instruct/ --lora_name TemplateGenerator
-"""
-
 import argparse
 
 import pandas as pd
